@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '7566'
     url: http://www.gutenberg.org/2009/agents/7566
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29637#Introduction-to-the-Study-of-History
 gutenberg_issued: '2009-08-08'
 gutenberg_type: Text
 identifiers:
